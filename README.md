@@ -2,9 +2,9 @@
 
 to Run these code you need to install node_modules first using - 
 
-<b>cd myFirstReactProject</b> // Locate to the Project Folde
-<b>npm install</b>
+<b><i>cd myFirstReactProject</i></b> // Locate to the Project Folde
+<b><i>npm install</i></b>
 
 to run these code run -
 
-<b>npm run dev</b>
+<b><i>npm run dev</i></b>
