@@ -2,7 +2,7 @@
 
 to Run these code you need to install node_modules first using - 
 
-<b><i>cd myFirstReactProject</i></b> // Locate to the Project Folde
+<b><i>cd myFirstReactProject</i></b> // Locate to the Project Folder<br>
 <b><i>npm install</i></b>
 
 to run these code run -
